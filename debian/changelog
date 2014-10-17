@@ -1,3 +1,9 @@
+vx-dga-desktop-settings (1.1-4) unstable; urgency=low
+
+  * Se modifica para configurar el fondo del proyecto piloto.
+
+ -- Ángel Lafuente <angel.lafuentezgz@gmail.com>  Fri, 17 Oct 2014 13:41:40 +0200
+
 vx-desktop-settings (1.1-4) unstable; urgency=low
 
   * Se añade como predependencia gnome-session-fallback.
